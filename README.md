@@ -49,7 +49,9 @@
 - 학습 관련 내용 특성상 긴 텍스트로 이루어져 있기 때문에 내용 지우기 버튼을 통해 전체 내용을 삭제할 수 있습니다.
 - 오른쪽 상단의 북마크 버튼을 누르면 사용자가 저장한 문제들을 확인할 수 있습니다.
 
-![KakaoTalk_20240531_223425733](https://github.com/youth5427/GPT_test/assets/105098123/781913fa-762d-4d3d-b8b1-f59ba78aab1f) ![KakaoTalk_20240531_223425733_01](https://github.com/youth5427/GPT_test/assets/105098123/15dec184-ea4e-4883-bf6f-aec9ffa656d8)
+|문제 생성 전|문제 생성 후|
+|:---------:|:----------:|
+|![KakaoTalk_20240531_223425733](https://github.com/youth5427/GPT_test/assets/105098123/781913fa-762d-4d3d-b8b1-f59ba78aab1f)|![KakaoTalk_20240531_223425733_01](https://github.com/youth5427/GPT_test/assets/105098123/15dec184-ea4e-4883-bf6f-aec9ffa656d8)|
 
 </br>
 
