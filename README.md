@@ -23,7 +23,7 @@
 
 </br>
 
-## MOIRAI : Most Optimal Implementation for Reinforce Academic Instruction ✏️
+## Most Optimal Implementation for Reinforce Academic Instruction ✏️
 
 **MOIRAI**는 **사용자의 학습 효과 강화**를 위한 **AI 기반 예제 문제 생성 서비스**입니다.
 
