@@ -1,17 +1,12 @@
 # 2024 생성 AI를 활용한 서비스 소프트웨어 개발 공모전 📱
 
-</br>
-
 **2024 생성 AI를 활용한 서비스 소프트웨어 개발 공모전** 작품 **MOIRAI**입니다.
-
 </br>
 
 ## 프로젝트 개요 ✏️
 
-👩‍💻 개발자 : 박진용 유수현 이기백 임정민
-
-🗓 개발 기간 : 2024년 5월 9일 ~ 5월 31일
-
+- 👩‍💻 개발자 : 박진용 유수현 이기백 임정민
+- 🗓 개발 기간 : 2024년 5월 9일 ~ 5월 31일
 </br>
 
 ## 개발 환경 🖥️
@@ -20,7 +15,6 @@
 - IDE : ```Android Studio```
 - Language : ```Java```
 - Etc : ```Open API```, ```Figma```
-
 </br>
 
 ## Most Optimal Implementation to Reinforce Academic Instruction ✏️
@@ -37,7 +31,6 @@
 
 - Experiential Learning—David A. Kolb
 - https://j-kagedu.or.kr/upload/pdf/kagedu-10-3-73.pdf
-
 </br>
 
 ## 기능 소개 📌
@@ -52,7 +45,6 @@
 |문제 생성 전|문제 생성 후|
 |:---------:|:----------:|
 |![KakaoTalk_20240531_223425733](https://github.com/youth5427/GPT_test/assets/105098123/781913fa-762d-4d3d-b8b1-f59ba78aab1f)|![KakaoTalk_20240531_223425733_01](https://github.com/youth5427/GPT_test/assets/105098123/15dec184-ea4e-4883-bf6f-aec9ffa656d8)|
-
 </br>
 
 ### 문제 생성 및 확인 화면
@@ -65,7 +57,6 @@
 |문제 생성 로딩|문제 생성 결과|문제 저장 실행|
 |:-----------:|:-----------:|:------------:|
 |![KakaoTalk_20240531_223425733_02](https://github.com/youth5427/GPT_test/assets/105098123/c8300eca-fb16-408d-8f9a-5e90a28aa35c)|![KakaoTalk_20240531_223425733_03](https://github.com/youth5427/GPT_test/assets/105098123/d6ee73f0-08f4-449a-a6cc-1bcfe5c1196c)|![KakaoTalk_20240531_223425733_04](https://github.com/youth5427/GPT_test/assets/105098123/0f74caf0-a050-4a00-b1f4-0ed47a74cea0)|
-
 </br>
 
 ### 북마크 화면
@@ -77,7 +68,6 @@
 |북마크 화면|
 |:--------:|
 |![KakaoTalk_20240531_233345907](https://github.com/youth5427/GPT_test/assets/105098123/a8324d3d-a419-4260-b351-683d031d9494)|
-
 </br>
 
 ## 기여자 🤝
@@ -85,5 +75,4 @@
 <a href="https://github.com/youth5427/GPT_test/graphs/contributors">
   
  &nbsp;&nbsp;[박진용](https://github.com/Jiny0ng)&nbsp;&nbsp;&nbsp;&nbsp;[유수현](https://github.com/youth5427)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[이기백](https://github.com/lgb201020)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[임정민](https://github.com/JeongMinIsBest)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 </br>
