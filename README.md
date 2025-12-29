@@ -1,6 +1,5 @@
 # 📱 2024 Generative AI-based Service Software Development Contest
-This repository contains **MOIRAI**, a project submitted to the  
-**2024 Generative AI-based Service Software Development Contest**.
+This repository contains **MOIRAI**, a project submitted to the **2024 Generative AI-based Service Software Development Contest**.
 <br/>
 
 ## ✏️ Project Overview
