@@ -1,20 +1,20 @@
-# 2024 생성 AI를 활용한 서비스 소프트웨어 개발 공모전 📱
+# 📱 2024 생성 AI를 활용한 서비스 소프트웨어 개발 공모전 
 **2024 생성 AI를 활용한 서비스 소프트웨어 개발 공모전** 작품 **MOIRAI**입니다.
 </br>
 
-## 프로젝트 개요 ✏️
+## ✏️ 프로젝트 개요 
 - 👩‍💻 개발자 : 박진용 유수현 이기백 임정민
 - 🗓 개발 기간 : 2024년 5월 9일 ~ 5월 31일
 </br>
 
-## 개발 환경 🖥️
+## 🖥️ 개발 환경 
 - Framework : ```Android SDK```
 - IDE : ```Android Studio```
 - Language : ```Java```
 - Etc : ```Open API```, ```Figma```
 </br>
 
-## Most Optimal Implementation to Reinforce Academic Instruction ✏️
+## ✏️ Most Optimal Implementation to Reinforce Academic Instruction 
 **MOIRAI**는 **사용자의 학습 효과 강화**를 위한 **AI 기반 예제 문제 생성 서비스**입니다.
 
 **사전 학습이 충분히 이루어진 LLM**에 **In-context Learning**을 적용하여 **사용자가 학습을 목표로 하는 내용에 대한 예제를 생성**합니다.
@@ -28,7 +28,7 @@
 - https://j-kagedu.or.kr/upload/pdf/kagedu-10-3-73.pdf
 </br>
 
-## 기능 소개 📌
+## 📌 기능 소개 
 
 ### 메인 화면
 - 학습하고 싶은 주제 및 대단원을 입력합니다.
@@ -62,7 +62,7 @@
 |![KakaoTalk_20240531_233345907](https://github.com/youth5427/GPT_test/assets/105098123/a8324d3d-a419-4260-b351-683d031d9494)|
 </br>
 
-## 기여자 🤝
+## 🤝 기여자 
 <a href="https://github.com/youth5427/GPT_test/graphs/contributors">
   
  &nbsp;&nbsp;[박진용](https://github.com/Jiny0ng)&nbsp;&nbsp;&nbsp;&nbsp;[유수현](https://github.com/youth5427)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[이기백](https://github.com/lgb201020)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[임정민](https://github.com/JeongMinIsBest)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
